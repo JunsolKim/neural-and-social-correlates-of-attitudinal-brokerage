@@ -7,3 +7,5 @@ Code to replicate the results of Neural and social correlates of attitudinal bro
  - /Stata/: Stata data and codes
    - moderating_analysis_data.dta: Data for moderating analyses
    - moderating_analysis.do: Code for moderating analyses and plots
+ - /NSCAB_data_code/: Data, codebook and the entire study codebook
+of Korean Social Life, Health, and Aging Project, which were originally uploaded in OSF.

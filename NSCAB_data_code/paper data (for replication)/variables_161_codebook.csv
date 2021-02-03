@@ -1,0 +1,31 @@
+﻿variable name,variable description
+nid,Social Network ID
+dbid,Database ID
+sd_comm,Standard deviation (based on weighted network) 
+sd_bin,Standard deviation (based on binary network) 
+ambi_comm,Ambivalence score (based on weighted network)
+ambi_bin,Ambivalence score (based on binary network)
+age,Age (Year)
+sex,"Sex (1=female, 0=male)"
+edu_y,Education year (Year)
+n_size,Network size (number of person)
+comm_size,Total communication frequency (day / year)
+mean_comm,Average communication frequency (day / year)
+n_constraint,Burt's structural constraint
+shealth,Self-rated health (1=not healthy~5=very healthy)
+township,"Township (1=Township K, 2=Township L)"
+mmse,MMSE score
+a,Big-five Personality Inventory: Agreeableness
+e,Big-five Personality Inventory: Extraversion
+n,Big-five Personality Inventory: Neuroticism
+o,Big-five Personality Inventory: Openness
+c,Big-five Personality Inventory: Conscientiousness
+maxhead,Head motion (Maximum frame-wise displacement)
+meanhead,Head motion (Mean frame-wise displacement)
+genderrole,Gender role attitude (1=traditional~5=egalitarian)
+betweenness,Betweenness centrality (based on weighted network)
+closeness,Closeness centrality (based on weighted network)
+eigenvector,Eigenvector centrality (based on weighted network)
+betweenness_z,Z-transformed betweenness
+closeness_z,Z-transformed closeness
+eigenvector_z,Z-transformed eigenvector
