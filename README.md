@@ -1,5 +1,5 @@
 # neural-and-social-correlates-of-attitudinal-brokerage
-Code to replicate the results of Neural and social correlates of attitudinal brokerage: using the complete social networks of two entire villages.
+The data and source code to replicate the results of "Neural and social correlates of attitudinal brokerage: using the complete social networks of two entire villages."
  - /MATLAB/: MATLAB data and codes
    - code_uncorrected_test.m: CPM (uncorrected p-value), Creating Plots (Figure 2)
    - code_permutation_test.m: CPM (permutation-tested p-value)
